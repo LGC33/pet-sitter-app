@@ -1,0 +1,4119 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "6a4232eb-a4f8-48b8-a76f-fdbd7d32d326",
+        "text": {
+          "ops": [
+            {
+              "insert": "🐕 Care Plan: Rocky"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "8b4193b2-e36d-48ca-b0dd-683bbc23b5bb",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Intake & Identification",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 1.1. Verify Rocky’s ID tag and kennel card: 1.2. Confirm medication and dosage against veterinary/owner instructions in Rocky’s file. 1.3. Place Rocky in a "
+                },
+                {
+                  "insert": "quiet, low-traffic kennel",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " with a "
+                },
+                {
+                  "insert": "soft bed",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " (extra padding for joints). 1.4. Note on kennel card: “"
+                },
+                {
+                  "insert": "Senior – Arthritis – Handle Gently – Meds with Meals",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": ".”"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "88b47f24-a3b4-4c7e-8960-5768fcfd5036",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Name: "
+                    },
+                    {
+                      "insert": "Rocky",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "578d9e28-d54d-4406-af04-f79e92a68710",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Age/Breed: "
+                    },
+                    {
+                      "insert": "11-year-old Beagle (senior)",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b33ee25f-437b-4e7a-9b0e-acadd1d7f553",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Medical: "
+                    },
+                    {
+                      "insert": "Arthritis, sensitive stomach, arthritis medication twice daily",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a31a5759-ea8e-46a1-b53c-357121231460",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Feeding: "
+                    },
+                    {
+                      "insert": "Senior formula, 1.5 cups twice daily with medication",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c0cf72cd-d1a0-4cad-b434-bc46bcce89e3",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Emergency Contact: "
+                    },
+                    {
+                      "insert": "Brian Foster – +1 555-654-3210",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "b956dbb8-b0ef-4f9e-8962-def1418d3124",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Housing & Comfort Setup",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 2.1. Provide a "
+                },
+                {
+                  "insert": "soft, thick bed",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "; add extra blankets or orthopedic pad for joint comfort. 2.2. Ensure the kennel is "
+                },
+                {
+                  "insert": "draft-free",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": ", not directly under AC vents or in cold/hard areas. 2.3. Keep fresh, clean water available at all times in a "
+                },
+                {
+                  "insert": "low, easily accessible bowl",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": ". 2.4. Minimize jumping: 2.5. Keep noise to a minimum near Rocky’s kennel; speak calmly when approaching."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "12d9373c-83ae-4c47-b2c5-30ea2a3c0ad5",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "No high beds or furniture that require Rocky to jump up or down."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c60d4fb3-57c6-4e50-9923-cc730f67574a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "If using raised cots, ensure they are low and stable."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "f9f7d68c-6b86-40c5-8a85-be1c3c026af5",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Schedule Overview (Senior / Arthritis-Friendly)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 3.1. "
+                },
+                {
+                  "insert": "Morning (~7:00–8:00 AM)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 3.2. "
+                },
+                {
+                  "insert": "Midday (~12:00–1:00 PM)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 3.3. "
+                },
+                {
+                  "insert": "Evening (~5:30–6:30 PM)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 3.4. "
+                },
+                {
+                  "insert": "Final potty break (~8:30–9:30 PM)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "8be31e9b-082c-4d92-b185-3633dd4ebad3",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Gentle potty walk."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "26682aff-afc9-46fb-97b8-87f52333a3b2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Breakfast",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " (1.5 cups senior formula + morning arthritis medication)."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "573c6405-ee74-479e-b0b7-ce34ae64e514",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Short, calm social time (petting, reassurance)."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "cd20ad20-c810-46a5-8f1d-0c49bcb3b362",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Short, slow walk for exercise and potty."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a96d4447-9af6-4efe-8e8d-20f8f7b01fd2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Light, calm enrichment (sniff time, gentle play)."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c526929a-0468-4025-8196-5642fc5d51e3",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Gentle potty walk."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "02d22d99-7788-4127-81f1-50b37049d046",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Dinner",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " (1.5 cups senior formula + evening arthritis medication)."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "4a32a72d-ec3e-45ee-886c-adf344ae12aa",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Quiet bonding time; settle Rocky on his bed."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "4caee15b-23f4-4842-a432-f4a65316a1d1",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Brief walk or yard break, then return to soft bed."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "fed390e4-f900-4855-8ded-614a4eb808d8",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Feeding Instructions",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 4.1. "
+                },
+                {
+                  "insert": "Diet",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 4.2. "
+                },
+                {
+                  "insert": "Timing",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 4.3. "
+                },
+                {
+                  "insert": "Feeding Procedure",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 4.4. "
+                },
+                {
+                  "insert": "Sensitive Stomach Precautions",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "5951cb17-55fa-489f-b86f-57d921a77205",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Food: "
+                    },
+                    {
+                      "insert": "Senior formula",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " (as provided/confirmed in file)."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ce43a01c-f11f-47f7-8d09-f7319cd90303",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Portion: "
+                    },
+                    {
+                      "insert": "1.5 cups twice daily",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " (AM and PM)."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a2c1a814-89bc-4414-9cd8-852a3223fb98",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Use "
+                    },
+                    {
+                      "insert": "measured scoop",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "; do not overfeed (sensitive stomach)."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "0d6f48c1-dce6-4236-a231-43caee29f015",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Breakfast:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Within 1 hour of morning walk."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "31cffaf4-29b3-4f5c-875b-b05f3e34afc0",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Dinner:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Within 1 hour of evening walk."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fd1a1455-e9a2-463e-a280-daf4d0ad429c",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Prepare correct portion in a clean bowl."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "035dbe6c-7ed0-478c-9a51-0f21715da023",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Add arthritis medication as prescribed (see Section 5)."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "9058fe8d-9a1a-4308-bcc5-fa322ce058e5",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Place bowl in kennel and close door if needed to prevent food guarding or interference from other dogs."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "1483dc92-7586-4498-96fe-8859eb013652",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Allow Rocky to eat "
+                    },
+                    {
+                      "insert": "undisturbed",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "; check after 15–20 minutes."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "f84df87c-6169-4ab4-9c76-9e9bc1625090",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "No treats or table scraps",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " unless explicitly approved in the file."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "415a1e07-9833-4490-abfa-7d4329229990",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "If treats are allowed, use only those labeled as "
+                    },
+                    {
+                      "insert": "sensitive-stomach/senior-friendly",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " and in small amounts."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "2f32df95-509c-4fae-af53-87b36928c921",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "If Rocky shows signs of GI upset (vomiting, diarrhea, refusal to eat, excessive gas):"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "d4d8dd72-0ef0-4a11-a4ea-828131ee6978",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Record time and description in log."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "bc1e4b15-2c29-4562-810d-090e930c7360",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Inform supervisor and follow facility health protocol."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "21e701c8-3719-4704-a4a6-21301d8c1d7c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Medication Administration (Arthritis – Twice Daily)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 5.1. "
+                },
+                {
+                  "insert": "Schedule",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 5.2. "
+                },
+                {
+                  "insert": "Verification",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 5.3. "
+                },
+                {
+                  "insert": "Administration Method",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 5.4. "
+                },
+                {
+                  "insert": "Documentation",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 5.5. "
+                },
+                {
+                  "insert": "Missed/Partial Doses",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "c23cd4c6-94bd-4315-9ce7-ff406886e671",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Morning dose:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " With breakfast."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b942139d-7122-4338-90d5-76173e923f65",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Evening dose:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " With dinner."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "f2fa81de-d9d4-4224-95e4-288af2d0999b",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Confirm name, dose, and medication instructions on Rocky’s medication label "
+                    },
+                    {
+                      "insert": "before each administration",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a8402ef9-ca4a-4aa2-9184-611e0c4a4a97",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Double-check Rocky’s identity using kennel card and collar."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ef0ce91d-d24a-4514-b8f1-512fba29243c",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Administer "
+                    },
+                    {
+                      "insert": "only with food",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": ", per instructions."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6ff5c1a3-c924-4b75-b9eb-63234892b736",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "If allowed, hide pills in a small amount of food or an approved pill pocket that is compatible with a sensitive stomach."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "520724be-5ff7-43be-9ada-c0954167b6ee",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Observe to ensure Rocky "
+                    },
+                    {
+                      "insert": "actually swallows",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " the medication:"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "9bea97fc-2f47-48d9-a694-35a189732915",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Check bowl after he finishes."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "19c20185-055b-441a-86de-703d9f20e549",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "If pill is left behind, re-offer in a different small food bite and note in log."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "531418b0-f949-4d6b-9c41-c2d5ca634b3c",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Immediately record: date, time, medication name, dosage given, and your initials on the medication log."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "6d7b62b8-bf84-41ee-abd7-132cd9a2a0d2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Note any refusal, vomiting, or unusual reaction."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "69cdd1f8-fdaa-4d85-bba8-7443ad9bb25f",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Do "
+                    },
+                    {
+                      "insert": "not",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " double-dose."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "96bc15f5-3859-4a40-ac3e-ec74f05fbd22",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "If a dose is missed or only partially taken, notify supervisor and follow facility protocol before making any changes."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "e64c3307-dd87-4027-9fea-ba759b1a9027",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Exercise Schedule (Arthritis-Friendly: 2–3 Walks Daily)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 6.1. "
+                },
+                {
+                  "insert": "General Guidelines",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 6.2. "
+                },
+                {
+                  "insert": "Walk 1 – Morning (~7:00–8:00 AM)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 6.3. "
+                },
+                {
+                  "insert": "Walk 2 – Midday (~12:00–1:00 PM)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 6.4. "
+                },
+                {
+                  "insert": "Walk 3 – Evening (~5:30–6:30 PM)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 6.5. "
+                },
+                {
+                  "insert": "Weather Adjustments",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "7bbe20a4-56a1-42ef-8580-1807b0b438d7",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Use a "
+                    },
+                    {
+                      "insert": "flat, secure collar or harness",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " and standard leash (no retractables)."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "569c9cf7-2de0-469e-babb-480848be944b",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Avoid rough, uneven, or slippery surfaces where possible."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "da2c4716-f4fd-4765-8e9c-0e4e00d8336e",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Keep Rocky’s pace "
+                    },
+                    {
+                      "insert": "slow and steady",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "; allow frequent sniff breaks."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "42ea2f6d-cd84-4261-abb1-24c69ee95349",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Limit walk duration if Rocky shows fatigue or discomfort."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b227f75c-5adb-45ed-b277-012a11688409",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Duration: "
+                    },
+                    {
+                      "insert": "10–15 minutes",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": ", depending on mobility and weather."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c9d69645-809a-43eb-8e9d-44145cf46954",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Focus: Potty break and gentle movement to loosen joints."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "04b390c0-4a79-4502-bba6-63c7b1cc800b",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Duration: "
+                    },
+                    {
+                      "insert": "5–10 minutes",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": ", potentially shorter on hot/cold days."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "8b0f13d8-404b-4fcc-b7b7-2d018429aefe",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Focus: Potty and light exercise; watch for limping or lagging."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "85ce6235-3bf4-464c-a545-a4fd3992be2c",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Duration: "
+                    },
+                    {
+                      "insert": "10–15 minutes",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": ", gentle stroll."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "208ce777-5c99-4e08-81bd-e2942e6f9d47",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Monitor closely for stiffness after resting; adjust time as needed."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "db2f3fc7-c948-43d3-954e-74b42d81914d",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Heat:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Walk in shade, avoid hot pavement; shorten walk if panting heavily."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "1561ff6c-ced0-44a8-bc9f-dd02d45ee789",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Cold/Wet:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Shorten walks; dry Rocky thoroughly when returning."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "cb9306e5-77c2-40e2-bdf9-85ea7629638a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "If conditions are extreme, replace longer walk with "
+                    },
+                    {
+                      "insert": "brief potty break + indoor enrichment",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "41569ccb-61e9-4099-9136-3a00d79f46b5",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Socialization Guidelines",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 7.1. "
+                },
+                {
+                  "insert": "Temperament Notes",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 7.2. "
+                },
+                {
+                  "insert": "Human Socialization",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 7.3. "
+                },
+                {
+                  "insert": "Dog-to-Dog Socialization",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 7.4. "
+                },
+                {
+                  "insert": "Quiet Time",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "76aa81c9-a900-41fc-934b-a3c4ae7445c5",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Rocky is described as "
+                    },
+                    {
+                      "insert": "very gentle",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": ". Still, treat introductions cautiously due to age and arthritis."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a4fd2394-0b61-40f6-aec3-b53fc43444db",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Greet Rocky calmly: avoid sudden movements, loud voices, or rough handling."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "a631cca9-f303-4c09-9f25-20d6dc1a5365",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Preferred contact: slow petting on shoulders, chest, and sides; avoid pressing on hips or lower back."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "7b52d3d3-3845-4eeb-ab74-8dca056dd72b",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Limit handling sessions to what Rocky seems to enjoy; stop if he turns away, stiffens, or tries to leave."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d1764f6f-f5dd-4857-8f93-b475024541a7",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "No unsupervised group play",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " due to age and arthritis."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ecbb7499-9114-49b5-bfd9-4e48e1a5ee24",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "If social contact is approved in his file:"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "e2a9fc4b-6960-4f51-b0a8-b0cc46ef91b0",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Introduce only to known, calm, gentle dogs."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "c654618f-1ac3-48b1-90ce-e45d062eca84",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Use on-leash or barrier greetings first (sniff through fence, parallel walking)."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "68a57423-9322-49f0-a1b0-53e5e142b279",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "End interaction immediately if Rocky shows stress or physical discomfort (stiffening, growling, hiding, limping)."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "51b82a9e-cb8e-48b8-bfb2-03b3516bbc7d",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Prioritize calm, one-on-one time (sitting with him on the floor, gentle petting) over high-energy activities."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "fcbe21ac-9b1d-46f7-a305-9bfb90360422",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Play & Enrichment Activities (Low-Impact)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 8.1. "
+                },
+                {
+                  "insert": "Approved Activities",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 8.2. "
+                },
+                {
+                  "insert": "Activities to Avoid",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 8.3. "
+                },
+                {
+                  "insert": "Enrichment Schedule",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "490d2289-19fa-4e20-875a-5c24dac982f2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Short "
+                    },
+                    {
+                      "insert": "sniff walks",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": ": allow extra time to explore with nose rather than covering distance."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "729c55dc-6a42-42ad-95cc-a937b45bc537",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Food puzzles",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " suitable for seniors (easy to access, not requiring forceful chewing)."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "87291b30-660c-4051-8af2-b9df4f0b3b0b",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Light "
+                    },
+                    {
+                      "insert": "nose work games",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " in the kennel (hide a few kibble pieces in a snuffle mat or towel)."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b04c7f5f-32cc-4ca1-b135-089467ca61f2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Gentle "
+                    },
+                    {
+                      "insert": "interactive time",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " (talking to him, slow petting, brushing if tolerated)."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "84aca61e-0344-4ce7-a635-37c85a2ec373",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Running, jumping, fetch involving quick starts/stops."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "dfad229d-f127-4614-83d9-8ec7d15046f9",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Stairs, steep ramps, or high platforms."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "bae7357c-26ea-4883-924f-c3782f54484c",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Rough play or wrestling with other dogs or staff."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "2278aacd-dd1d-4371-8255-0f9a9fef5dbb",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Morning or midday: simple food puzzle (using a portion of his meal if possible to avoid extra calories)."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "5299228a-2b98-41fa-8b7a-8026fcb5b22a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Afternoon: quiet one-on-one interaction (5–10 minutes of petting, brushing, or sniff game)."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "3fe7e5c3-99e3-4e6b-9122-df5a956bcea1",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Evening: calm settling routine—petting, soft words while he relaxes in bed."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "415108a2-44a7-41c3-8b8c-32506102234c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Handling & Mobility Support",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 9.1. "
+                },
+                {
+                  "insert": "General Handling",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 9.2. "
+                },
+                {
+                  "insert": "Assistance",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 9.3. "
+                },
+                {
+                  "insert": "Signs of Pain or Distress",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "2586ed3c-5da2-4c06-8575-2be482b35b64",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Approach from the side, speak softly, and let Rocky see and smell you before touching."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "01ad96f8-b5ad-4133-a30d-1e17b30ac4c1",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Support his body when helping him up; avoid pulling on legs or collar."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "8e3e85a7-ee15-41b9-9ba5-a93872f113e9",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "If Rocky struggles to stand, place a hand gently under his chest and hindquarters to help lift."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "0eb29a9b-1278-4d38-86f9-d1f0da520f28",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Use non-slip mats in areas where floors are smooth or slippery."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "796e74b4-d5ea-4202-a319-f24309df8e5d",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Reluctance to walk, lagging behind."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "2258da4b-c852-49ff-b600-063461be153a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Whining, panting at rest, or licking joints."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "10b00ec7-b3e9-4b96-bd82-51e3647965a1",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Sudden change in gait, limping, or refusal to use a limb."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ba75d2ef-de76-4de4-928d-60c8fa47a46c",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Note and report immediately per Section 11."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "31efc4be-fd6c-4af6-85be-3ec263aa545a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Safety Protocols (General)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "24f626b6-4ba0-4bab-88d6-bdd12bc81649",
+            "text": {
+              "ops": [
+                {
+                  "insert": "10.1. "
+                },
+                {
+                  "insert": "Secure Containment",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "9bc37e7c-e6fe-4e5f-a0e0-6af28d244cc2",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Always clip leash "
+                },
+                {
+                  "insert": "before",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " opening kennel door."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "46738c54-5dee-436c-9155-e320e5533a0d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Check that collars/harnesses are fitted so Rocky cannot slip out."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "90fb8467-f2df-4154-9092-96d19a6ce1d4",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Ensure gates, doors, and yard areas are securely latched before off-leash potty time (if allowed)."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "97fcbcd9-8a67-4882-a14c-f728604b7ba2",
+            "text": {
+              "ops": [
+                {
+                  "insert": "10.2. "
+                },
+                {
+                  "insert": "Supervision",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "87d55db8-2b7f-4579-8567-b50e9dcf4e7a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Never leave Rocky unsupervised in a new area or with other dogs."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "75fae69a-0125-4b52-ad09-b0ea24ead527",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Maintain visual contact during any dog-dog interactions."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c2e8078b-0b1f-4aac-b882-aac42abd74b7",
+            "text": {
+              "ops": [
+                {
+                  "insert": "10.3. "
+                },
+                {
+                  "insert": "Environmental Safety",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d17dbb2a-3812-42a0-bbc8-a0f3f83c2380",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Remove any hard, sharp, or cluttered objects Rocky could trip over."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "df54905a-5ddf-450b-9429-eb4134e9951a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Keep cleaning products and chemicals locked away; clean floors thoroughly and dry them before Rocky walks through."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "4e182c6f-fb2f-4add-af72-b8452ed526d9",
+            "text": {
+              "ops": [
+                {
+                  "insert": "10.4. "
+                },
+                {
+                  "insert": "Hygiene",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f7ac2c38-1a7d-4cf9-b455-1eb0aaab8a42",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Clean food and water bowls daily."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b9f7e40e-8db8-4fbe-b05b-aaaa4be7d5fb",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Disinfect kennel regularly following facility protocol, ensuring bedding is dry and replaced if soiled."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "037040fe-70b9-4094-8686-99a29eadaf25",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Health Monitoring & Emergency Protocol",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "fc123be4-e47c-4b07-96b1-65723198868f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "11.1. "
+                },
+                {
+                  "insert": "Daily Health Check (AM & PM)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1093a8c9-ce1d-4b04-90ce-408c743b9145",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Appetite: eating full meals? Any vomiting?"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d7c00eeb-3000-4fcd-a2af-fa123b96bf82",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Stool: normal consistency and frequency? Note any diarrhea or constipation."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d31746c5-126e-413a-94b9-5785ae82e975",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Mobility: worsening stiffness, limping, refusal to walk?"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "534a6939-bfa9-41c4-85c7-2ee2a79a26e4",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Behavior: unusual lethargy, agitation, or disorientation?"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "71df9e8f-ca45-4518-a665-ec172091e4d1",
+            "text": {
+              "ops": [
+                {
+                  "insert": "11.2. "
+                },
+                {
+                  "insert": "Concerning Signs (Report Immediately to Supervisor)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "98cd69ce-e143-4815-a474-e6e078cc1c22",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Persistent vomiting or diarrhea."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "218439ec-5543-4ce7-8610-182e1a97f4ab",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Refusal to eat "
+                },
+                {
+                  "insert": "two consecutive meals",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "9c06203d-5608-45d2-9328-23a0af4b9bc5",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Labored breathing, collapse, or inability to stand."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e11c57c1-05f3-4629-a268-d5a74cab09d9",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Sudden severe lameness or crying out when moving."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b52ba067-213e-49b8-b081-8b22400e04bd",
+            "text": {
+              "ops": [
+                {
+                  "insert": "11.3. "
+                },
+                {
+                  "insert": "Emergency Steps",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f5a6bbbe-0fa1-4010-a2a1-4755d1cd8415",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Notify supervisor or on-call manager immediately."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "2a175274-ad2b-4271-a4b1-0e82175fbc07",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Follow facility emergency vet protocol."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "29730a4f-eabb-40ab-ac07-143f23a8ff00",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Prepare Rocky’s file and medication list to accompany him if transport to vet is required."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "12917653-02c4-4a0d-94ed-b9e471dd39bd",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Contact "
+                },
+                {
+                  "insert": "Emergency Contact: Brian Foster (+1 555-654-3210)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": ", as directed by management."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "fd5b0a87-13a4-42bf-b1b9-9698ba4ad4ed",
+            "text": {
+              "ops": [
+                {
+                  "insert": "11.4. "
+                },
+                {
+                  "insert": "Documentation",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "20050b21-495e-4369-afef-37166dec0c44",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Log all incidents, signs, and actions taken with date, time, and staff initials."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ead1523f-1f83-47ce-8b75-91be296b3674",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Night Routine & Final Checks",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1bf268ea-3de9-4e31-bb74-09d53fb887d0",
+            "text": {
+              "ops": [
+                {
+                  "insert": "12.1. Confirm Rocky has:"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "41bd6044-85da-43fb-b414-1e7d7a5d7ca3",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Access to fresh water."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "eccb0102-bc72-49ad-8f53-17e649d6030f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Clean, soft bedding properly arranged for joint comfort."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "2acfe03f-731d-4bba-b5c0-08b4966fb115",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Completed his "
+                },
+                {
+                  "insert": "evening walk",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": ", dinner, and "
+                },
+                {
+                  "insert": "evening medication",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "54e71751-18a5-44f1-856a-862aec20091d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "12.2. Conduct a brief visual check:"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "61f7b1bf-cf8d-4499-b3c9-ebabe3780099",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Rocky is resting comfortably (no heavy panting, obvious distress, or pacing)."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "3bc25f4f-210a-498f-92f2-57f58ef2f066",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Kennel is secure and environment is quiet and dim for sleep."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "366bcc76-111d-4de2-9d0f-4213a7fc9191",
+            "text": {
+              "ops": [
+                {
+                  "insert": "12.3. Note any deviations from routine in the log for next shift."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b91dfb8e-dfd2-4363-bae1-566e70414b6d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Shift Handoff Instructions",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "64d3b4ef-0222-4a79-abae-47aa106662b8",
+            "text": {
+              "ops": [
+                {
+                  "insert": "13.1. At shift change, verbally update the next staff member on:"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "0fe90259-f4af-4d60-8e5d-6c9d525ec0f2",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Timing of Rocky’s last meal and medication."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "5db76e22-68df-42ce-8cc7-b7bb9651d944",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Any changes in mobility, appetite, or stool."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "67a60602-76ab-4d27-938e-68a59fe0c9ec",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Any incidents or concerns observed."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "9eb7bc07-ad9f-4c65-b998-0f616622b4bf",
+            "text": {
+              "ops": [
+                {
+                  "insert": "13.2. Ensure the log is complete and accurate so all staff can maintain consistent care for Rocky."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "preferences": {
+    "defaultView": "list",
+    "avatar": {
+      "type": "emoji",
+      "value": "🖥️"
+    }
+  }
+}

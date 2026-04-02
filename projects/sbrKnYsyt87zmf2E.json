@@ -1,0 +1,4108 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "bef96c59-b8e1-4e64-bea7-cecc148cf303",
+        "text": {
+          "ops": [
+            {
+              "insert": "🐕 Care Plan: Max & Bella"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "b39df798-d1bf-4333-9ff9-df458e97164b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Identity & Bonding Requirements",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "c24ffd65-86f2-49db-ba90-1f8648a8a535",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "1.1 Confirm dogs’ identities on intake: "
+                    },
+                    {
+                      "insert": "Max",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " (M, 5 yrs, calm) and "
+                    },
+                    {
+                      "insert": "Bella",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " (F, 3 yrs, playful), both Corgis."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "f6243915-edb6-4e82-9c2c-180039bc6404",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "1.2 "
+                    },
+                    {
+                      "insert": "Always house, walk, and play them together.",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " They are a bonded pair and must not be separated except in a medical emergency."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "be2994e3-7641-4720-b105-839dcef0b816",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "1.3 Note in kennel records, whiteboard, and digital system: “"
+                    },
+                    {
+                      "insert": "Bonded pair – must stay together / territorial with other dogs",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": ".”"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "9603c225-5ba9-41a1-a4eb-0d7511616cc2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "1.4 Use one larger shared run/kennel with two beds and two water bowls."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "89a9b18e-45dd-4817-8d28-12be1fd1aa40",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Feeding Schedule & Instructions",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "b16d5f71-ca05-4b00-b7be-e1c7666ad9f7",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "2.1 "
+                    },
+                    {
+                      "insert": "Twice daily feeding:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "58461cfc-981e-4cc9-928c-baed37faaa2d",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Morning: between "
+                        },
+                        {
+                          "insert": "7:00–9:00 AM",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "6f0a9113-eb43-4ab6-b18f-caa2086604e2",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Evening: between "
+                        },
+                        {
+                          "insert": "5:00–7:00 PM",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "e0e5daee-94f9-4388-a7e7-3fb4b03cce41",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "2.2 "
+                    },
+                    {
+                      "insert": "Portion:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "17251e86-42c9-422e-8990-0b7ede7e5303",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Max: "
+                        },
+                        {
+                          "insert": "1 cup",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " of regular kibble"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "400903fb-55ad-4244-b1cf-8c959605742b",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Bella: "
+                        },
+                        {
+                          "insert": "1 cup",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " of regular kibble"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "1ff6c9fd-8b23-41eb-b60f-c75736f60b0b",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "2.3 Feed them "
+                    },
+                    {
+                      "insert": "at the same time",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " in the same space, with "
+                    },
+                    {
+                      "insert": "separate bowls",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "43a2785c-84cb-40bc-9f33-25b04e86c707",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "2.4 Observe for food guarding:"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "d8bcb66b-5b12-4829-a677-8852c6e28319",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "If one dog is guarding or rushing the other’s bowl, stand by to gently body-block and redirect."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "54913f93-88fe-4a6a-ab3e-ec66babc1e12",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "If needed, position bowls a few feet apart within the same enclosure so they both remain in sight of each other."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "06693481-d9d6-4c81-8514-bbce95f6e9f2",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "2.5 Provide "
+                    },
+                    {
+                      "insert": "fresh water at all times",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "; check and refill bowls at least "
+                    },
+                    {
+                      "insert": "3x daily",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " (morning, midday, evening)."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "b24f2184-1687-4b80-9c54-6e80c2ebe699",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "2.6 Monitor and record:"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "b79e7a0a-48c0-4f0e-9b95-09832b741571",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Appetite (finished, partial, or refused)"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "43e7873c-7483-4fee-8cf0-756c3f4c3537",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Any vomiting, diarrhea, or difficulty eating"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "91450a39-3cd2-41b0-b855-d9a0d06bed84",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "2.7 If either dog refuses food for "
+                    },
+                    {
+                      "insert": "two consecutive meals",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": ", or vomits more than once, notify supervisor and consider contacting owner."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "44c50ac7-f44e-48a7-bffd-3780ec7b4c9b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Exercise & Walk Schedule (2–3 Walks Daily)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "79838770-b090-4990-9084-cebaf60d5b9f",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "3.1 "
+                    },
+                    {
+                      "insert": "Walks per day:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " Aim for "
+                    },
+                    {
+                      "insert": "2–3 walks",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " together as a pair."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "ca7a2c53-f0b7-4f17-bbbc-2735ff4f3f9e",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Morning walk: "
+                        },
+                        {
+                          "insert": "within 1–2 hours after breakfast",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "039d105a-f7b1-4391-afbe-57e3a7e02057",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Midday walk: "
+                        },
+                        {
+                          "insert": "early afternoon",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": ", if schedule allows"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "d3622fc7-3fb1-4f65-9d1a-4ab9bad78c0a",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Evening walk: "
+                        },
+                        {
+                          "insert": "before or after dinner",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": ", depending on facility routine"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "847c1733-2c1b-4f70-8f28-9edde08a0a67",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "3.2 "
+                    },
+                    {
+                      "insert": "Duration & intensity:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "13e6645e-3ae3-485f-9e18-95d3766388a3",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Typical walk: "
+                        },
+                        {
+                          "insert": "15–20 minutes",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " on-leash, adjusted for weather and their energy."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "bb2fefde-5303-49d1-b193-0d40dcccd642",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Allow Bella a bit of controlled sniffing/exploration; keep Max at a comfortable pace."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "91230b59-2dc3-4689-ba0d-b4dc584c0a2c",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "3.3 "
+                    },
+                    {
+                      "insert": "Leash handling:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "ee025909-2909-4353-a936-a240d7b60e74",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Use "
+                        },
+                        {
+                          "insert": "separate leashes",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " and "
+                        },
+                        {
+                          "insert": "separate collars/harnesses",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "; one handler should be able to safely manage both, or use two handlers if they pull."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "8c4f0b13-7e13-49c4-b84f-870746ff30ef",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Keep leashes short enough for control but with some slack; "
+                        },
+                        {
+                          "insert": "no retractable leashes.",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "7db2f616-f0bd-4b6d-89c3-5e84bf249f31",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "3.4 "
+                    },
+                    {
+                      "insert": "Route & environment:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "8730daef-e23c-4a94-b341-b266113aec01",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Avoid crowded dog areas and high-traffic dog walking paths due to their territorial tendencies."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "73b07570-a3ca-47b8-9ed7-172c05f1c5e9",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Keep at least "
+                        },
+                        {
+                          "insert": "10–15 feet",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " distance from unfamiliar dogs where possible."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "b8992cf5-fbe5-4343-a1f6-00a0901dbe36",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "3.5 "
+                    },
+                    {
+                      "insert": "Elimination:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "7dc2a0c3-c952-4736-b5f9-68caa27472aa",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Allow them time to sniff and relieve themselves."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "f841cd87-5d8f-4eab-a737-9aa8e86c66f9",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Pick up waste promptly and dispose of it according to facility protocol."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "33f04de4-821d-4e29-b131-04b619da3762",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Record pee/poop on daily log (normal / loose / hard / not observed)."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "bf7edc3a-eed7-413b-82c9-93d92bf7d024",
+            "text": {
+              "ops": [
+                {
+                  "insert": "In-Kennel Routine & Comfort",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "8ae40149-0e00-4bbd-8fd6-e00cc310cfe5",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "4.1 House them in a "
+                    },
+                    {
+                      "insert": "quiet area",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " with moderate traffic to reduce stress from other dogs."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "4152b279-4ecf-41ac-beb0-3fdf7a09bd1c",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "4.2 Provide:"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "c3fab676-ab40-489a-b61b-b8cf9046dcdd",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "2 beds or blankets (one for each)"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "0da6c29e-4a00-4d23-87b6-db98d572810c",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "2 water bowls"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "90291263-bfc3-48d0-996f-ced12bc38979",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "1–2 safe chew toys"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "f048b2cf-a077-4af5-b8b5-24d6cb6d8b16",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "4.3 Maintain a "
+                    },
+                    {
+                      "insert": "consistent routine",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": ": feed–rest–walk–rest–play–rest to reduce anxiety."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "046a3794-f768-4581-9989-333784a7ac57",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "4.4 Check on them at least every "
+                    },
+                    {
+                      "insert": "2–3 hours",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " during staffed hours for:"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "c9c5f4ba-cf76-4157-9bce-08eff01b959a",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Comfort"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "35bba12a-068b-4b2f-b68f-e36036c48978",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Water level"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "9dcd0ec2-541f-42ad-82ff-93a9958eb0ec",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Any signs of distress or conflict between them."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "f03889be-add8-4696-93a4-0ea593bd9e07",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Socialization Guidelines (Dog & Human)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "4760b196-b5a3-453d-83b2-8f0afe6dff53",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "5.1 "
+                    },
+                    {
+                      "insert": "With each other:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "f5791b33-03d6-439f-9ef8-b715d187c0d2",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "They are affectionate with each other; allow normal play, cuddling, and resting together."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "7fc23409-3a63-456f-a6fb-c85d67482c65",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Intervene only if play escalates to sustained growling, snapping, or one dog trying to escape interaction."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "9b3eb05b-7ac4-4b5f-a4e5-452150895f86",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "5.2 "
+                    },
+                    {
+                      "insert": "With other dogs (territorial risk):",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "9a8071c6-b52c-46a0-b9cf-0aae1366ddb0",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "No off-leash group play",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " with unfamiliar dogs."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "a8e98cb3-f3f1-4c41-8758-a4d61c49eed8",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "No shared runs or adjacent mingling",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " with other dogs in tight spaces."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "2f0b61cb-a96f-4158-b80e-f9eec4a7c027",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "When passing other dogs (hallways, doors, outdoors):"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": [
+                      {
+                        "type": "text",
+                        "id": "930d7983-6257-4bf7-b148-e7cd32cdd807",
+                        "text": {
+                          "ops": [
+                            {
+                              "insert": "Keep Max and Bella "
+                            },
+                            {
+                              "insert": "close to handler’s side",
+                              "attributes": {
+                                "bold": true
+                              }
+                            },
+                            {
+                              "insert": "."
+                            },
+                            {
+                              "insert": "\n",
+                              "attributes": {
+                                "paragraph": true
+                              }
+                            }
+                          ]
+                        },
+                        "format": {
+                          "node": "bullet",
+                          "children": "bullet"
+                        },
+                        "collapsed": false,
+                        "completed": false,
+                        "children": []
+                      },
+                      {
+                        "type": "text",
+                        "id": "0b093b1a-488e-4e62-ad70-effff18a9056",
+                        "text": {
+                          "ops": [
+                            {
+                              "insert": "Maintain "
+                            },
+                            {
+                              "insert": "distance and line of sight",
+                              "attributes": {
+                                "bold": true
+                              }
+                            },
+                            {
+                              "insert": "; use doors/corners strategically to avoid nose-to-nose greetings."
+                            },
+                            {
+                              "insert": "\n",
+                              "attributes": {
+                                "paragraph": true
+                              }
+                            }
+                          ]
+                        },
+                        "format": {
+                          "node": "bullet",
+                          "children": "bullet"
+                        },
+                        "collapsed": false,
+                        "completed": false,
+                        "children": []
+                      },
+                      {
+                        "type": "text",
+                        "id": "aa35d478-fec9-4f30-bac1-5622c7df66fe",
+                        "text": {
+                          "ops": [
+                            {
+                              "insert": "Do "
+                            },
+                            {
+                              "insert": "not",
+                              "attributes": {
+                                "bold": true
+                              }
+                            },
+                            {
+                              "insert": " allow nose-to-nose introductions unless explicitly cleared by management (default: avoid)."
+                            },
+                            {
+                              "insert": "\n",
+                              "attributes": {
+                                "paragraph": true
+                              }
+                            }
+                          ]
+                        },
+                        "format": {
+                          "node": "bullet",
+                          "children": "bullet"
+                        },
+                        "collapsed": false,
+                        "completed": false,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "ebf9ecb2-9762-4177-aa05-d71d06bce525",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "5.3 "
+                    },
+                    {
+                      "insert": "With staff (human socialization):",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "1a8f1bfe-fb2c-4a29-a23f-8d0e222a6906",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Both are expected to be friendly; approach calmly and from the side, speaking softly."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "3ad0efd9-1e23-4cba-be2f-ba21309dd149",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Offer a closed hand for sniffing before petting."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "f42d1738-d8f2-41d9-b932-f34d5c31c0a6",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Reward calm behavior (sitting, relaxed body) with gentle praise or small treats if allowed by facility rules."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "72b6952d-0eea-49f2-8736-9f8405f61619",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "5.4 "
+                    },
+                    {
+                      "insert": "Visitor / client contact:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "9670e69b-860e-48d6-a653-fd0360cf69ff",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "No visitor handling of Max and Bella unless authorized and supervised."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "5a5c1c4b-21eb-4f91-aa8d-794f592ea7a3",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Keep them secure on leash or in kennel during public tours."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "64fed0f6-46ce-4413-a420-f72fb2ed0fcb",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Play & Enrichment Activities",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "c0a1cf80-eff0-4ece-a2c8-aa5aad87f645",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "6.1 "
+                    },
+                    {
+                      "insert": "Daily goal:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " At least "
+                    },
+                    {
+                      "insert": "2 dedicated play/enrichment sessions",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " (10–15 minutes each), in addition to walks."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "137b460a-41a6-4260-ab7d-5517f201b65a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "6.2 "
+                    },
+                    {
+                      "insert": "Types of play:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "cfad564a-e5ef-423c-9477-52cfc9aad1b4",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Tug toys (one per dog or a long tug they can share under supervision)"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "0cc40d72-3e99-40b3-90f6-ee058c3c5205",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Soft fetch in a secure area (short distances, mindful of Corgi backs)"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "5dd641e9-f0a6-4b45-a559-4afe132c8d85",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Gentle chasing games with staff (no rough tackling or jumping encouraged)."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "05ef1047-b4e2-4e3e-a79f-ada75c474960",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "6.3 "
+                    },
+                    {
+                      "insert": "Mental enrichment:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "8ad80cbd-656b-48ab-bbf9-87b231d56385",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Food puzzle toys or Kongs (balanced with their feeding amounts)."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "6f226805-66b8-4653-88ec-e549e5dfa1ee",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Scatter feeding/sniffing games using part of their meal in a secure, quiet space."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "342ae0fd-0781-4bad-80bc-ac31b0fc0736",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "6.4 "
+                    },
+                    {
+                      "insert": "Managing energy differences:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "2cf40d0e-9861-42d8-89d0-e39f6789dd19",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Allow Bella to engage in slightly more active play."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "5f39e7e6-155e-4f05-a2ff-5a465ebdb053",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Provide Max with calmer interaction if he chooses (petting, light tug, sniffing games)."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "731382ab-fa77-4eaa-a048-ebf0b6ff08fd",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "If Max wants a break, give him space while Bella plays with a toy or staff member."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "94798718-dd94-40f0-9c60-dbd5c6a80e19",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "6.5 "
+                    },
+                    {
+                      "insert": "Safety in play:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "bfe24f1e-8eba-4b0a-8254-e6117646bb17",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Monitor for resource guarding over toys. If either dog guards, use "
+                        },
+                        {
+                          "insert": "one toy per dog",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " and avoid high-value items that trigger conflict."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "0b940951-c7f9-477a-a1aa-cb1b63ca19f8",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "End the session if arousal gets too high (excessive barking, mounting, stiff body posture, snapping)."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "7962a9ee-38a4-40f3-a98c-e3a8f6f00e42",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Behavior Monitoring & Handling Territoriality",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "d886575b-4297-4083-a0ad-2e12309baa56",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "7.1 Watch for "
+                    },
+                    {
+                      "insert": "territorial/defensive signs",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": " toward other dogs:"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "a8010b50-09db-44f2-91ec-84a251f38bac",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Stiff body, hard stare"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "6e91324e-bf6b-4df0-9341-5ec5329df385",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Raised hackles"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "07b3cf24-0aee-4e80-86cd-5cdafeabc45f",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Low growling or sudden barking when another dog approaches their space"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "f4b295de-9833-4516-a583-9608180a9ccb",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "7.2 If signs appear:"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "997f307b-c272-432f-a504-6d234fdcf0b4",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Increase distance from other dogs immediately."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "d8845044-bb1c-446f-9d4c-eea5ffa875c5",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Use calm verbal cues and move them away without tension or yelling."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "5d779cf8-95d0-4029-8df6-82287e539c1e",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "7.3 In the kennel:"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "f539a4b6-bbe7-4dd9-b371-fab64a8af568",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Prevent other dogs from approaching or staring into their run."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "30b6cea2-f672-445b-b6b9-9542f1ec3550",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Use visual barriers if needed (blanket/partial cover) to reduce stimulation."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "1f72838a-1a62-49d3-90ed-b28624084be8",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "7.4 For any incident involving snapping, lunging, or fight risk:"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "0b27ed22-7dd1-4120-b927-b35c3aba860a",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Safely remove them from the trigger."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "6c1e5994-04f7-486d-820e-be261ab82a2e",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Document the incident with date/time and context."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "11dfc7fd-78c4-4299-b6ce-5cd11cf60ada",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Notify supervisor and consider informing the owner depending on severity."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "8673f2e4-c64e-4408-876d-0ba160d8c48f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Health & Medical Monitoring",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "fb971eb7-63b7-47d0-9d80-863d45dd03cf",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "8.1 Both are reported "
+                    },
+                    {
+                      "insert": "healthy",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "; no known medical issues."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e12a2d3b-6bfd-42bd-8020-fb6f1ef4cf49",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "8.2 Check daily for:"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "a6c60a29-4719-475f-8586-f6eb81857c38",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Normal breathing, energy levels, and gait"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "2cbab99f-8adb-4a47-a509-ceae03259fd1",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Clear eyes and nose (no discharge)"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "c23855e3-2e95-434f-94cf-fc2976dd8c38",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Normal stool and urine"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "2c7d3c1b-8a18-4fbe-b80e-7d6d4053f7f0",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "8.3 Red flags requiring supervisor notification and possible vet consult:"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "6cc1d80b-82a7-44f4-9280-4331742e4ec5",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Lethargy, collapse, or disorientation"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "d3a49d7b-aea6-4bc0-8867-3b67fb8cb917",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Repeated vomiting or diarrhea"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "a241a940-9641-48a6-b3e7-fad4f03e0c96",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Refusal to walk, obvious pain, or limping"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "7c0e8cb8-335a-47d6-b470-a6e2bb3e24e2",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Sudden behavior changes (aggression, withdrawal, excessive panting at rest)"
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "2af2aa17-2b3b-42ed-bad8-d08d21af5dbf",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "8.4 If any medical treatment is given (per facility protocol), record:"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "692fc251-98a3-4cc1-842d-2a93cc36d0b6",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Time, medication, dosage, and reason."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "4eebab49-d74a-42b9-af54-cd9fcba6950a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Safety Protocols (General)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "825f9fd6-a7dc-48ba-9e0d-0d5678ce46d1",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "9.1 "
+                    },
+                    {
+                      "insert": "Secure handling:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "bdba7a30-4220-4372-8634-7b0cb922feef",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Ensure collars/harnesses are properly fitted before each walk."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "dfeb8585-661c-4bfc-b672-e05218dab774",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Double-check leashes, clips, and gates are secure before moving them."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "a6c93c7c-3177-49e0-a139-93742301195e",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "9.2 "
+                    },
+                    {
+                      "insert": "Movement between areas:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "44d1aea0-9890-4b61-a56a-8a7dc4616041",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Move Max and Bella "
+                        },
+                        {
+                          "insert": "together",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": ", unless an emergency requires temporary separation."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "d44dba71-333f-4c47-9cf4-a545253fdf6c",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Use “one door at a time” rule: fully close and latch one barrier before opening the next."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "944bfcc2-8b7e-4db6-96a1-0e230d742469",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "9.3 "
+                    },
+                    {
+                      "insert": "Emergency separation (only if necessary):",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "f83b2194-f646-4b88-972f-d07181b3576e",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "If there is a fight or medical emergency requiring separation, place them in "
+                        },
+                        {
+                          "insert": "adjacent or nearby",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " kennels so they remain within sight/smell as soon as it’s safe."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "a1570d68-640a-4892-9f40-091524804218",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Reunite as soon as both are safe and calm, following supervisor guidance."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "id": "29e8a606-9ff5-4070-9965-be882d8295b5",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "9.4 "
+                    },
+                    {
+                      "insert": "Weather:",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "38cc16ff-8652-4aa5-8f07-3046d5c5cc85",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "In hot weather: limit exertion, offer shade and cool water, watch for overheating (excessive panting, drooling, bright red gums)."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "db252867-3906-499f-b519-558bea0f8253",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "In cold or wet weather: limit time outside and dry them off thoroughly after walks."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "53347dc7-4038-4185-9b7a-c1bb5ab4f6f1",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Emergency Contact & Communication",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "2df0c3d6-12ac-498a-8034-486f33b0c585",
+            "text": {
+              "ops": [
+                {
+                  "insert": "10.1 Owner / emergency contact: "
+                },
+                {
+                  "insert": "Robert Lee – +1 (555) 345-6789",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "bb8f78b6-4845-478b-a584-60d1bbd28338",
+            "text": {
+              "ops": [
+                {
+                  "insert": "10.2 Contact hierarchy (follow facility policy):"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "873055c7-28c6-4d2b-b17e-3f042ae76797",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "For routine updates: note in log; inform at pick-up if relevant."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "f6fc8f85-5492-4548-8fcc-97897c73faae",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "For non-urgent concerns (mild diarrhea, missed meal once, minor behavior notes): inform supervisor; contact owner if it persists."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "da79a910-dbf3-45cf-8be3-ab36832fbd02",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "For urgent issues (injury, suspected illness, escape attempt, serious aggression):"
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "78ee355d-ab28-4842-84dd-b8b63ee672ce",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Notify supervisor immediately."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "afa621ac-3b40-41f3-b120-49ecbbb03ef6",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Contact "
+                        },
+                        {
+                          "insert": "Robert Lee",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " as soon as the dogs are safe and, if needed, after vet contact."
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": "bullet"
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "a531ed51-b44a-4fac-af11-9e89debf39f0",
+            "text": {
+              "ops": [
+                {
+                  "insert": "10.3 Document all significant events in their file:"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "aba56ba3-3532-4c19-ac16-be72e5b8c63d",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Health changes, behavior incidents, escapes or near escapes, and any vet visits."
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": "bullet"
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "16230e88-3168-4a57-b1e7-5ccf6a362ea1",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Checklist for Staff (End-of-Shift Quick Review)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "3493ead0-9ce2-4a52-9e4d-8abef70b0381",
+            "text": {
+              "ops": [
+                {
+                  "insert": "11.1 "
+                },
+                {
+                  "insert": "Feeding:",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " Both fed "
+                },
+                {
+                  "insert": "twice",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "; portions correct; appetite recorded."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d73a5e37-2b34-4fd4-ac21-ccb44b9e5f81",
+            "text": {
+              "ops": [
+                {
+                  "insert": "11.2 "
+                },
+                {
+                  "insert": "Water:",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " Bowls clean and full."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1a56ad1a-5ae2-4400-81c6-1c272dee28d2",
+            "text": {
+              "ops": [
+                {
+                  "insert": "11.3 "
+                },
+                {
+                  "insert": "Elimination:",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " Walks completed (2–3); pee/poop logged; any issues noted."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "07b576ee-0f77-468a-9092-d22eacf0e157",
+            "text": {
+              "ops": [
+                {
+                  "insert": "11.4 "
+                },
+                {
+                  "insert": "Exercise/Play:",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " At least "
+                },
+                {
+                  "insert": "2 walks",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " and "
+                },
+                {
+                  "insert": "1–2 play/enrichment",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " sessions completed."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d45d5abb-6a5e-4e42-bdaa-424431f20160",
+            "text": {
+              "ops": [
+                {
+                  "insert": "11.5 "
+                },
+                {
+                  "insert": "Behavior:",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " Any territorial or unusual behavior observed and recorded."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "392db38d-7700-4b30-bc36-1aa456f09b0e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "11.6 "
+                },
+                {
+                  "insert": "Health:",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " Quick visual health check done; any concerns escalated."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "5eed3a14-139d-4fec-912b-68c83bf76e8f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "11.7 "
+                },
+                {
+                  "insert": "Environment:",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " Kennel/run clean, secure, comfortable; both dogs together and settled."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f7ecf1c0-f725-4377-abce-b802b6b98512",
+            "text": {
+              "ops": [
+                {
+                  "insert": "These instructions apply for the duration of Max and Bella’s stay and should be reviewed with any new staff member assigned to their care."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "preferences": {
+    "defaultView": "list",
+    "avatar": {
+      "type": "emoji",
+      "value": "💪"
+    }
+  }
+}

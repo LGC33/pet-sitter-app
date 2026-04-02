@@ -1,0 +1,1365 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+        "text": {
+          "ops": [
+            {
+              "insert": "Pricing Configuration"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "b1c2d3e4-f5a6-7890-abcd-ef1234567891",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Day-care only (up to 12h)",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@ctgry": {
+                "type": "Select",
+                "optionId": "cat-base"
+              },
+              "@dur8n": "8am-10am drop, pick up within 12h",
+              "@pr1ce": 30,
+              "@prcng": {
+                "type": "Select",
+                "optionId": "prc-flat"
+              },
+              "@activ": {
+                "type": "Select",
+                "optionId": "opt-yes"
+              },
+              "@descr": "Daycare service for short stays"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c2d3e4f5-a6b7-8901-bcde-f12345678902",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Overnight only",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@ctgry": {
+                "type": "Select",
+                "optionId": "cat-base"
+              },
+              "@dur8n": "7pm to 10am next day",
+              "@pr1ce": 25,
+              "@prcng": {
+                "type": "Select",
+                "optionId": "prc-flat"
+              },
+              "@activ": {
+                "type": "Select",
+                "optionId": "opt-yes"
+              },
+              "@descr": "Overnight boarding without daytime care"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d3e4f5a6-b7c8-9012-cdef-123456789013",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Full day + overnight (24h)",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@ctgry": {
+                "type": "Select",
+                "optionId": "cat-base"
+              },
+              "@dur8n": "8am to 8am (24 hours)",
+              "@pr1ce": 35,
+              "@prcng": {
+                "type": "Select",
+                "optionId": "prc-flat"
+              },
+              "@activ": {
+                "type": "Select",
+                "optionId": "opt-yes"
+              },
+              "@descr": "Standard 24-hour boarding period"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e4f5a6b7-c8d9-0123-def1-234567890124",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Extra day-care (following overnight)",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@ctgry": {
+                "type": "Select",
+                "optionId": "cat-base"
+              },
+              "@dur8n": "8am until 7pm (11 hours)",
+              "@pr1ce": 25,
+              "@prcng": {
+                "type": "Select",
+                "optionId": "prc-flat"
+              },
+              "@activ": {
+                "type": "Select",
+                "optionId": "opt-yes"
+              },
+              "@descr": "Extended daytime care after overnight stay"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f5a6b7c8-d9e0-1234-ef12-345678901235",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Early drop-off 7:00am - 7:59am",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@ctgry": {
+                "type": "Select",
+                "optionId": "cat-surcharge"
+              },
+              "@dur8n": "One hour before standard time",
+              "@pr1ce": 3,
+              "@prcng": {
+                "type": "Select",
+                "optionId": "prc-flat"
+              },
+              "@activ": {
+                "type": "Select",
+                "optionId": "opt-yes"
+              },
+              "@descr": "Surcharge for early arrival"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a6b7c8d9-e0f1-2345-1234-456789012346",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Early drop-off 6:00am - 6:59am",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@ctgry": {
+                "type": "Select",
+                "optionId": "cat-surcharge"
+              },
+              "@dur8n": "Two hours before standard time",
+              "@pr1ce": 5,
+              "@prcng": {
+                "type": "Select",
+                "optionId": "prc-flat"
+              },
+              "@activ": {
+                "type": "Select",
+                "optionId": "opt-yes"
+              },
+              "@descr": "Higher surcharge for very early arrival"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b7c8d9e0-f1a2-3456-2345-567890123457",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Early drop-off before 6:00am",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@ctgry": {
+                "type": "Select",
+                "optionId": "cat-surcharge"
+              },
+              "@dur8n": "More than 2 hours before standard",
+              "@pr1ce": 10,
+              "@prcng": {
+                "type": "Select",
+                "optionId": "prc-flat"
+              },
+              "@activ": {
+                "type": "Select",
+                "optionId": "opt-yes"
+              },
+              "@descr": "Premium surcharge for very early drop-off"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c8d9e0f1-a2b3-4567-3456-678901234568",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Late pick-up (hourly rate)",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@ctgry": {
+                "type": "Select",
+                "optionId": "cat-surcharge"
+              },
+              "@dur8n": "After 6pm per hour",
+              "@pr1ce": 3,
+              "@prcng": {
+                "type": "Select",
+                "optionId": "prc-hourly"
+              },
+              "@activ": {
+                "type": "Select",
+                "optionId": "opt-yes"
+              },
+              "@descr": "Charged per hour after 6pm pickup time"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d9e0f1a2-b3c4-5678-4567-789012345679",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Peak Period"
+                },
+                {
+                  "insert": " Surcharge",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@ctgry": {
+                "type": "Select",
+                "optionId": "cat-peak"
+              },
+              "@dur8n": "Dec 20 - Jan 10, Easter weeks, Public holidays",
+              "@pr1ce": 8,
+              "@prcng": {
+                "type": "Select",
+                "optionId": "prc-daily"
+              },
+              "@activ": {
+                "type": "Select",
+                "optionId": "opt-yes"
+              },
+              "@descr": "Peak season surcharge during holidays, school breaks, and high-demand periods"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f1a2b3c4-d5e6-7890-6789-901234567891",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Professional Grooming",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@ctgry": {
+                "type": "Select",
+                "optionId": "cat-addon"
+              },
+              "@dur8n": "Full service",
+              "@pr1ce": 50,
+              "@prcng": {
+                "type": "Select",
+                "optionId": "prc-flat"
+              },
+              "@activ": {
+                "type": "Select",
+                "optionId": "opt-yes"
+              },
+              "@descr": "Full bath, brush, nail trim & styling"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a2b3c4d5-e6f7-8901-7890-012345678902",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Training Session",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@ctgry": {
+                "type": "Select",
+                "optionId": "cat-addon"
+              },
+              "@dur8n": "One-on-one session",
+              "@pr1ce": 75,
+              "@prcng": {
+                "type": "Select",
+                "optionId": "prc-flat"
+              },
+              "@activ": {
+                "type": "Select",
+                "optionId": "opt-yes"
+              },
+              "@descr": "Professional behavioral training"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b3c4d5e6-f7a8-9012-8901-123456789013",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Walks",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@ctgry": {
+                "type": "Select",
+                "optionId": "cat-addon"
+              },
+              "@dur8n": "Per day",
+              "@pr1ce": 15,
+              "@prcng": {
+                "type": "Select",
+                "optionId": "prc-daily"
+              },
+              "@activ": {
+                "type": "Select",
+                "optionId": "opt-yes"
+              },
+              "@descr": "Extra exercise & outdoor time daily"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c4d5e6f7-a8b9-0123-9012-234567890124",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Constant Company",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@ctgry": {
+                "type": "Select",
+                "optionId": "cat-addon"
+              },
+              "@dur8n": "Per day",
+              "@pr1ce": 8,
+              "@prcng": {
+                "type": "Select",
+                "optionId": "prc-daily"
+              },
+              "@activ": {
+                "type": "Select",
+                "optionId": "opt-yes"
+              },
+              "@descr": "24/7 attention for anxious pets daily"
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "fields": {
+      "@ctgry": {
+        "displayName": "Category",
+        "type": "Select",
+        "options": {
+          "cat-base": {
+            "id": "cat-base",
+            "name": "Base Boarding",
+            "rank": "0",
+            "color": "#3b82f6"
+          },
+          "cat-surcharge": {
+            "id": "cat-surcharge",
+            "name": "Surcharge",
+            "rank": "1",
+            "color": "#f59e0b"
+          },
+          "cat-addon": {
+            "id": "cat-addon",
+            "name": "Add-On Service",
+            "rank": "2",
+            "color": "#10b981"
+          },
+          "cat-peak": {
+            "id": "cat-peak",
+            "name": "Peak Period",
+            "rank": "3",
+            "color": "#ef4444"
+          }
+        }
+      },
+      "@dur8n": {
+        "displayName": "Duration",
+        "type": "string"
+      },
+      "@pr1ce": {
+        "displayName": "Price",
+        "type": "number",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "currency",
+          "config": {
+            "type": "standard",
+            "code": "USD"
+          }
+        }
+      },
+      "@prcng": {
+        "displayName": "Pricing Type",
+        "type": "Select",
+        "options": {
+          "prc-flat": {
+            "id": "prc-flat",
+            "name": "Flat Rate",
+            "rank": "0",
+            "color": "#6366f1"
+          },
+          "prc-daily": {
+            "id": "prc-daily",
+            "name": "Per Day",
+            "rank": "1",
+            "color": "#8b5cf6"
+          },
+          "prc-hourly": {
+            "id": "prc-hourly",
+            "name": "Per Hour",
+            "rank": "2",
+            "color": "#ec4899"
+          }
+        }
+      },
+      "@activ": {
+        "displayName": "Active",
+        "type": "Select",
+        "options": {
+          "opt-yes": {
+            "id": "opt-yes",
+            "name": "Yes",
+            "rank": "0",
+            "color": "#10b981"
+          },
+          "opt-no": {
+            "id": "opt-no",
+            "name": "No",
+            "rank": "1",
+            "color": "#ef4444"
+          }
+        }
+      },
+      "@descr": {
+        "displayName": "Description",
+        "type": "string"
+      }
+    },
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@ctgry": {
+            "id": "/attributes/@ctgry",
+            "fieldPath": "/attributes/@ctgry",
+            "rank": "z"
+          },
+          "/attributes/@dur8n": {
+            "id": "/attributes/@dur8n",
+            "fieldPath": "/attributes/@dur8n",
+            "rank": "zV"
+          },
+          "/attributes/@pr1ce": {
+            "id": "/attributes/@pr1ce",
+            "fieldPath": "/attributes/@pr1ce",
+            "rank": "zk"
+          },
+          "/attributes/@prcng": {
+            "id": "/attributes/@prcng",
+            "fieldPath": "/attributes/@prcng",
+            "rank": "zs"
+          },
+          "/attributes/@activ": {
+            "id": "/attributes/@activ",
+            "fieldPath": "/attributes/@activ",
+            "rank": "zw"
+          },
+          "/attributes/@descr": {
+            "id": "/attributes/@descr",
+            "fieldPath": "/attributes/@descr",
+            "rank": "zy"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@ctgry": {
+            "id": "/attributes/@ctgry",
+            "fieldPath": "/attributes/@ctgry",
+            "rank": "z"
+          },
+          "/attributes/@dur8n": {
+            "id": "/attributes/@dur8n",
+            "fieldPath": "/attributes/@dur8n",
+            "rank": "zV"
+          },
+          "/attributes/@pr1ce": {
+            "id": "/attributes/@pr1ce",
+            "fieldPath": "/attributes/@pr1ce",
+            "rank": "zk"
+          },
+          "/attributes/@prcng": {
+            "id": "/attributes/@prcng",
+            "fieldPath": "/attributes/@prcng",
+            "rank": "zs"
+          },
+          "/attributes/@activ": {
+            "id": "/attributes/@activ",
+            "fieldPath": "/attributes/@activ",
+            "rank": "zw"
+          },
+          "/attributes/@descr": {
+            "id": "/attributes/@descr",
+            "fieldPath": "/attributes/@descr",
+            "rank": "zy"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "D",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@ctgry": {
+            "id": "/attributes/@ctgry",
+            "fieldPath": "/attributes/@ctgry",
+            "rank": "z"
+          },
+          "/attributes/@dur8n": {
+            "id": "/attributes/@dur8n",
+            "fieldPath": "/attributes/@dur8n",
+            "rank": "zV"
+          },
+          "/attributes/@pr1ce": {
+            "id": "/attributes/@pr1ce",
+            "fieldPath": "/attributes/@pr1ce",
+            "rank": "zk"
+          },
+          "/attributes/@prcng": {
+            "id": "/attributes/@prcng",
+            "fieldPath": "/attributes/@prcng",
+            "rank": "zs"
+          },
+          "/attributes/@activ": {
+            "id": "/attributes/@activ",
+            "fieldPath": "/attributes/@activ",
+            "rank": "zw"
+          },
+          "/attributes/@descr": {
+            "id": "/attributes/@descr",
+            "fieldPath": "/attributes/@descr",
+            "rank": "zy"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "E",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@ctgry": {
+            "id": "/attributes/@ctgry",
+            "fieldPath": "/attributes/@ctgry",
+            "rank": "z"
+          },
+          "/attributes/@dur8n": {
+            "id": "/attributes/@dur8n",
+            "fieldPath": "/attributes/@dur8n",
+            "rank": "zV"
+          },
+          "/attributes/@pr1ce": {
+            "id": "/attributes/@pr1ce",
+            "fieldPath": "/attributes/@pr1ce",
+            "rank": "zk"
+          },
+          "/attributes/@prcng": {
+            "id": "/attributes/@prcng",
+            "fieldPath": "/attributes/@prcng",
+            "rank": "zs"
+          },
+          "/attributes/@activ": {
+            "id": "/attributes/@activ",
+            "fieldPath": "/attributes/@activ",
+            "rank": "zw"
+          },
+          "/attributes/@descr": {
+            "id": "/attributes/@descr",
+            "fieldPath": "/attributes/@descr",
+            "rank": "zy"
+          }
+        }
+      },
+      "gantt": {
+        "id": "gantt",
+        "type": "gantt",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@ctgry": {
+            "id": "/attributes/@ctgry",
+            "fieldPath": "/attributes/@ctgry",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@dur8n": {
+            "id": "/attributes/@dur8n",
+            "fieldPath": "/attributes/@dur8n",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@pr1ce": {
+            "id": "/attributes/@pr1ce",
+            "fieldPath": "/attributes/@pr1ce",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@prcng": {
+            "id": "/attributes/@prcng",
+            "fieldPath": "/attributes/@prcng",
+            "rank": "zs",
+            "hidden": false
+          },
+          "/attributes/@activ": {
+            "id": "/attributes/@activ",
+            "fieldPath": "/attributes/@activ",
+            "rank": "zw",
+            "hidden": false
+          },
+          "/attributes/@descr": {
+            "id": "/attributes/@descr",
+            "fieldPath": "/attributes/@descr",
+            "rank": "zy",
+            "hidden": false
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "V",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/@activ": {
+            "id": "/attributes/@activ",
+            "fieldPath": "/attributes/@activ",
+            "rank": "zw",
+            "hidden": false
+          },
+          "/attributes/@ctgry": {
+            "id": "/attributes/@ctgry",
+            "fieldPath": "/attributes/@ctgry",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@descr": {
+            "id": "/attributes/@descr",
+            "fieldPath": "/attributes/@descr",
+            "rank": "zy",
+            "hidden": false
+          },
+          "/attributes/@dur8n": {
+            "id": "/attributes/@dur8n",
+            "fieldPath": "/attributes/@dur8n",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@pr1ce": {
+            "id": "/attributes/@pr1ce",
+            "fieldPath": "/attributes/@pr1ce",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@prcng": {
+            "id": "/attributes/@prcng",
+            "fieldPath": "/attributes/@prcng",
+            "rank": "zs",
+            "hidden": false
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          }
+        }
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "table",
+    "avatar": {
+      "type": "emoji",
+      "value": "⏰"
+    }
+  }
+}

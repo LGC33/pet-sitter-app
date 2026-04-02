@@ -1,0 +1,166 @@
+{
+  "version": "2",
+  "flowTitle": "Smart Booking Router",
+  "trigger": {
+    "valid": false,
+    "displayName": "When Booking Quote Added",
+    "type": "PIECE_TRIGGER",
+    "settings": {
+      "pieceName": "@taskade/automade-internalpiece-taskade",
+      "pieceVersion": "BLANK",
+      "triggerName": "task.added",
+      "input": {}
+    }
+  },
+  "actions": [
+    {
+      "name": "b1a2c3d4-e5f6-7890-abcd-ef1234567890",
+      "valid": true,
+      "displayName": "Route by Booking Value",
+      "type": "BRANCH",
+      "settings": {},
+      "paths": [
+        {
+          "name": "c2b3d4e5-f678-90ab-cdef-1234567890ab",
+          "valid": true,
+          "displayName": "VIP Booking Path (>$250)",
+          "type": "BRANCH_PATH",
+          "settings": {
+            "ruleset": {
+              "type": "CUSTOM",
+              "input": {
+                "type": "or",
+                "value": [
+                  {
+                    "type": "and",
+                    "value": [
+                      {
+                        "condition": "text_starts_with",
+                        "id": "76e5e6da-cd4f-4517-a5f5-d8457c2d3a7a",
+                        "data": "{{ trigger[\"WjZwj3bQQMjD6MnC/fields/@totalPrice\"] }}",
+                        "comparator": "2"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "and",
+                    "value": [
+                      {
+                        "condition": "text_starts_with",
+                        "id": "d80ec916-4f23-4fd6-8334-544ca26f9ec8",
+                        "data": "{{ trigger[\"WjZwj3bQQMjD6MnC/fields/@totalPrice\"] }}",
+                        "comparator": "3"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "and",
+                    "value": [
+                      {
+                        "condition": "text_starts_with",
+                        "id": "61b58c96-699a-4f4f-82e4-4c9dcea7ad2a",
+                        "data": "{{ trigger[\"WjZwj3bQQMjD6MnC/fields/@totalPrice\"] }}",
+                        "comparator": "4"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "and",
+                    "value": [
+                      {
+                        "condition": "text_starts_with",
+                        "id": "c625907c-aa9b-4a4f-9507-1eaa6d20a49e",
+                        "data": "{{ trigger[\"WjZwj3bQQMjD6MnC/fields/@totalPrice\"] }}",
+                        "comparator": "5"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          "actions": [
+            {
+              "name": "d3c4e5f6-7890-abcd-ef12-34567890abcd",
+              "valid": true,
+              "displayName": "Generate VIP Welcome Message",
+              "type": "PIECE",
+              "settings": {
+                "pieceName": "@taskade/automade-internalpiece-openai",
+                "pieceVersion": "BLANK",
+                "actionName": "ai.generate",
+                "input": {
+                  "input": "Customer: {{ trigger[\"WjZwj3bQQMjD6MnC/fields/@cName\"] }}, Pet: {{ trigger[\"WjZwj3bQQMjD6MnC/fields/@petName\"] }} ({{ trigger[\"WjZwj3bQQMjD6MnC/fields/@petType\"] }}), Check-in: {{ trigger[\"WjZwj3bQQMjD6MnC/fields/@checkIn\"] }}, Total Value: ${{ trigger[\"WjZwj3bQQMjD6MnC/fields/@totalPrice\"] }}, Special Requests: {{ trigger[\"WjZwj3bQQMjD6MnC/fields/@notes\"] }}",
+                  "prompt": "Write a warm, personalized VIP welcome message for a premium pet boarding customer. Their booking details are below. Make it friendly, professional, emphasize our premium care services, and mention that we'll personally call them within 24 hours. Keep it to 2-3 short paragraphs."
+                }
+              }
+            },
+            {
+              "name": "g6h7i8j9-0123-defg-4567-89abcdefghij",
+              "valid": false,
+              "displayName": "Mark VIP as Contacted",
+              "type": "PIECE",
+              "settings": {
+                "pieceName": "@taskade/automade-internalpiece-taskade",
+                "pieceVersion": "BLANK",
+                "actionName": "updateCustomFields",
+                "input": {
+                  "fields": {
+                    "@status": {
+                      "data": {
+                        "value": "contacted"
+                      },
+                      "rank": "0",
+                      "fieldId": "@status"
+                    }
+                  },
+                  "nodeId": "{{ trigger[\"nodeId\"] }}",
+                  "projectId": {
+                    "type": "flow-template-variable-input-type",
+                    "id": "QHKG3Y96ZqGwQD1p"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "e4d5f6g7-8901-bcde-f123-456789abcdef",
+          "valid": true,
+          "displayName": "Standard Booking Path (Fallback)",
+          "type": "BRANCH_PATH",
+          "settings": {
+            "ruleset": {
+              "type": "FALLBACK"
+            }
+          },
+          "actions": [
+            {
+              "name": "f5e6g7h8-9012-cdef-0123-56789abcdefg",
+              "valid": true,
+              "displayName": "Generate Standard Confirmation",
+              "type": "PIECE",
+              "settings": {
+                "pieceName": "@taskade/automade-internalpiece-openai",
+                "pieceVersion": "BLANK",
+                "actionName": "ai.generate",
+                "input": {
+                  "input": "Customer: {{ trigger[\"WjZwj3bQQMjD6MnC/fields/@cName\"] }}, Pet: {{ trigger[\"WjZwj3bQQMjD6MnC/fields/@petName\"] }}, Dates: {{ trigger[\"nodeText\"] }}",
+                  "prompt": "Write a friendly booking confirmation message for a pet boarding customer. Keep it warm, professional but concise. Mention we'll email them with next steps. 2 short paragraphs maximum."
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "variables": {
+    "QHKG3Y96ZqGwQD1p": {
+      "id": "QHKG3Y96ZqGwQD1p",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    }
+  }
+}

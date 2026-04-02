@@ -1,0 +1,1989 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "34704a67-ad38-4371-a1fd-49bdae62e9f1",
+        "text": {
+          "ops": [
+            {
+              "insert": "🐕 Care Plan: Charlie"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "7004c100-07ae-4344-808c-b7006a44268b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Dog Profile & ID Verification",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 1.1. Confirm dog’s name and description: "
+                },
+                {
+                  "insert": "Charlie – 4‑year‑old Golden Retriever",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": ". 1.2. Verify ID tag, collar, and kennel card match: "
+                },
+                {
+                  "insert": "“Charlie – Michael Mitchell”",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": ". 1.3. Confirm Charlie’s belongings at check‑in (especially): - Blue squeaky toy (place in kennel with him). - Any leash/harness provided by owner (label and store as per facility policy). 1.4. Confirm emergency contact: "
+                },
+                {
+                  "insert": "Michael Mitchell – +1 (555) 876‑5432",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " displayed on kennel card and in digital records."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "fc70a42a-d23c-4645-93d0-cf62aec880d6",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Health & Medical Status",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 2.1. Charlie is reported "
+                },
+                {
+                  "insert": "healthy and up to date on all vaccinations",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "; confirm vaccination records on file. 2.2. No known medical conditions or medications; monitor as usual for: - Changes in appetite, stool, urination, or energy level. - Coughing, sneezing, limping, or visible discomfort. - Signs of stress: excessive panting, pacing, whining, or hiding. 2.3. If any abnormal signs persist beyond one routine check or worsen quickly: - Notify supervisor immediately. - If urgent, follow facility emergency protocol (contact vet, then owner)."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "07f6948d-3a6c-4810-befe-b9001043aab8",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Kennel Setup & Comfort",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 3.1. Assign Charlie a clean, appropriately sized kennel or suite. 3.2. Provide: - Clean, non‑slip bedding. - Fresh water bowl (changed at every meal and at least 2x additional times daily). - "
+                },
+                {
+                  "insert": "Blue squeaky toy",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " placed in kennel for comfort and sleep. 3.3. Keep kennel area calm and free from excessive noise when possible. 3.4. Do not overcrowd his kennel with extra toys; limit to his favorite toy plus 1–2 safe facility toys if desired."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "50205a87-115f-42c1-b72b-ba7e45cdfd7c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Feeding Schedule & Instructions",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 4.1. "
+                },
+                {
+                  "insert": "Twice‑daily feeding",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " – maintain consistent times: - "
+                },
+                {
+                  "insert": "Morning feeding:",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " between "
+                },
+                {
+                  "insert": "7:00–9:00 AM",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": ". - "
+                },
+                {
+                  "insert": "Evening feeding:",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " between "
+                },
+                {
+                  "insert": "5:00–7:00 PM",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": ". 4.2. "
+                },
+                {
+                  "insert": "Portion:",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " - "
+                },
+                {
+                  "insert": "2 cups of dry food",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " in the morning. - "
+                },
+                {
+                  "insert": "2 cups of dry food",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " in the evening. - Use designated measuring cup; do not estimate by eye. 4.3. Feeding procedure: - Confirm dog identity before feeding. - Check fresh water bowl; refill with clean water as needed. - Serve food in a clean bowl labeled for Charlie. - Allow "
+                },
+                {
+                  "insert": "15–20 minutes",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " for eating; remove any uneaten food, record if he eats less than 75% of normal. 4.4. "
+                },
+                {
+                  "insert": "Dental chew:",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " - Give "
+                },
+                {
+                  "insert": "one small dental chew after dinner",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " only. - Ensure chew is size‑appropriate and approved by facility. - Supervise for first 5 minutes; ensure he chews safely and is not gulping. 4.5. Treats: - Charlie "
+                },
+                {
+                  "insert": "prefers belly rubs over treats",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "; use belly rubs and praise as primary rewards. - If facility treats are used, keep to small amounts and record any signs of digestive upset."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "5284c4c0-940b-45e1-a930-2e9044725426",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Water & Hydration",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 5.1. Ensure "
+                },
+                {
+                  "insert": "fresh water is always available",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " in his kennel. 5.2. Replace water: - At each feeding time. - After each walk or play session. - Whenever bowl appears dirty or low. 5.3. Monitor and record if Charlie shows excessive drinking or refusal to drink."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "50a1012f-1e6c-4aa4-8e95-00956380617d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Daily Exercise Schedule (2–3 Walks)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 6.1. Aim for "
+                },
+                {
+                  "insert": "2–3 walks daily",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": ", roughly: - "
+                },
+                {
+                  "insert": "Morning walk:",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 20–30 minutes (after morning feeding digestion period of at least 30 minutes). - "
+                },
+                {
+                  "insert": "Midday walk:",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 15–20 minutes. - "
+                },
+                {
+                  "insert": "Evening walk:",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 15–20 minutes (before dinner if possible). 6.2. Walking procedure: - Use secure collar/harness and leash; check fit before exiting kennel. - Walk using designated potty/exercise areas only. - Allow time for sniffing and elimination; note stools and urine in daily log. 6.3. Adjust intensity if: - Hot weather – shorten walk, provide shade, watch for overheating. - Cold/wet weather – limit exposure as needed, dry him off afterward. 6.4. Do not run or bike with Charlie unless specifically authorized by facility and owner."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "0dec19cc-0aff-49e6-a379-4b9f0d4eff81",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Socialization & Group Play",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 7.1. Personality note: Charlie "
+                },
+                {
+                  "insert": "gets excited around other dogs",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " and is generally friendly, but excitement must be managed. 7.2. Before group play, follow facility temperament and introduction protocol: - Start with "
+                },
+                {
+                  "insert": "on‑leash, controlled introductions",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " through a barrier or in neutral space. - Observe for signs of over‑arousal: jumping, vocalizing, intense pulling. - If overly excited, have him sit and focus before allowing closer interaction. 7.3. Group play guidelines (if he passes temperament check and is cleared by supervisor): - Place him with "
+                },
+                {
+                  "insert": "similarly sized, friendly, non‑reactive dogs",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": ". - Maintain "
+                },
+                {
+                  "insert": "constant supervision",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " by staff. - Limit initial group sessions to "
+                },
+                {
+                  "insert": "15–20 minutes",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": ", extend only if calm and appropriate. 7.4. Signs to "
+                },
+                {
+                  "insert": "pause or end",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " socialization: - Mounting, chasing that doesn’t stop when the other dog signals. - Excessive barking, growling, or stiff body posture. - Any sign of fear or distress in Charlie or other dogs. 7.5. If he becomes too excited: - Call him away using cheerful voice. - Ask for a sit, reward with "
+                },
+                {
+                  "insert": "belly rubs and calm praise",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": ". - Provide a brief timeout in a quiet area if needed."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "99de7199-8d0c-478d-800c-9b9ae8a7e8a4",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Individual Play & Enrichment",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 8.1. Charlie "
+                },
+                {
+                  "insert": "loves playing fetch",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "; make fetch a primary enrichment activity. 8.2. "
+                },
+                {
+                  "insert": "Fetch sessions:",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " - Use a secure, fenced area only. - 1–2 fetch sessions per day, 10–15 minutes each, depending on weather and his energy level. - Use facility‑approved balls/toys; do not throw sticks or unsafe items. 8.3. Play rules: - Ask for a simple behavior (sit or “wait”) before throwing the ball. - Encourage calm returns; if he becomes overly amped, pause until he is calmer. 8.4. Additional enrichment options (as time allows): - Short training games (sit, down, stay, recall) using praise and belly rubs. - Gentle brushing if he enjoys being groomed. - Quiet one‑on‑one time in a calm room with petting and belly rubs. 8.5. Avoid: - Rough play or wrestling. - Tug with toys that could encourage resource guarding unless staff is trained and policy allows."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "17d605d4-d3d7-40dc-9593-76f1516c082f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Handling, Comfort, and Rewards",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " 9.1. Use calm, confident handling at all times. 9.2. "
+                },
+                {
+                  "insert": "Preferred reward:",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " belly rubs and gentle physical affection. 9.3. When greeting or rewarding Charlie: - Invite him to sit or stand calmly. - Offer chest or shoulder petting first, then belly rubs when he rolls over. 9.4. Avoid: - Looming directly over his face or hugging tightly. - Rough pats; keep touch gentle and controlled. 9.5. If he appears anxious (pacing, whining, panting): - Offer quiet interaction, belly rubs, and a short walk if appropriate. - Ensure his blue squeaky toy is with him for comfort."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "14e68e77-cab5-400b-8ecd-216e231b71fd",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Safety Protocols – General",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "47d1c183-8498-4960-9c22-f9ac6b2088e7",
+            "text": {
+              "ops": [
+                {
+                  "insert": "10.1. "
+                },
+                {
+                  "insert": "Door and leash safety:",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "dc7a25de-10a5-4b66-a3ba-4399f5abf73a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Always double‑check kennel doors, gates, and exterior doors are latched."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "5ffc01d3-6980-4a43-8614-91ca48d0385a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Leash Charlie "
+                },
+                {
+                  "insert": "before",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " opening kennel door; hold leash securely when entering/exiting runs."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "62fd4080-dbaf-45eb-ad3a-a396d4abff6b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "10.2. "
+                },
+                {
+                  "insert": "No off‑leash",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " outside of secure, fenced areas approved for off‑leash play."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "9bcb0d4d-e689-44b2-b82f-9cd4394c0ca7",
+            "text": {
+              "ops": [
+                {
+                  "insert": "10.3. Use only facility‑approved collars/harnesses; no slip leads as regular collars unless policy allows and staff is trained."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b3f91c1a-75b8-4b41-be80-9739a0c3944c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "10.4. Never leave Charlie unattended with other dogs or with toys that could be swallowed or destroyed easily."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e8bb741f-23b0-4b3d-982c-35979bd43d44",
+            "text": {
+              "ops": [
+                {
+                  "insert": "10.5. In case of a dog scuffle:"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d7411bbc-65ab-461b-b8d5-79eb33132a23",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Do not grab collars near mouths."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "fd1771de-3d29-4518-a999-90f67375fde9",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Use approved interruption methods (loud noise, barrier, water hose as per facility protocol)."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1baa7ebc-e0c3-4546-9291-5251995a31ec",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Separate dogs calmly, check for injuries, notify supervisor and complete incident report."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ef7f60d2-3fbb-47ce-8030-cb39753371f4",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Safety Protocols – Health & Environment",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d883b29a-c5b6-4c68-a250-bd416c38bb2b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "11.1. Check Charlie at each shift for:"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1a76ea86-ae54-4b34-af02-0317beaf83cf",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Clean coat, no visible injuries."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "80df5528-2b9e-47a7-bff5-ef73b21bc6e0",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Clear eyes, normal breathing."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "20d4061f-8246-4629-ab47-f84b19c7ef60",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Normal mobility (no limping)."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "dd8ebd50-8ac6-494a-9118-610c74cd8491",
+            "text": {
+              "ops": [
+                {
+                  "insert": "11.2. Maintain clean environment:"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "53304191-52c8-4a4e-aee9-82257ef64cc9",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Remove waste promptly from kennel and play areas."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a237ce8a-d71f-408b-90f1-53760efd9909",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Disinfect food and water bowls daily and after each boarding turnover."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b172a0f8-7a95-473d-a2af-61117cb4934e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "11.3. Heat and cold precautions:"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "61598f75-7104-45a4-b857-5162b14293a5",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- In hot weather: limit intense fetch, provide shade and water breaks every 5–10 minutes."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b29995b7-b7f0-4f12-88e2-24230e34b4e9",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- In cold/wet weather: limit outdoor time, towel dry after walks."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "6e69b4bc-8267-4e6a-8ca0-08e5788f723e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "11.4. If Charlie shows any sign of heat stress (excessive panting, drooling, weakness):"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e3e7767e-c692-496a-a0b9-cdc42edef5e2",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Move him to a cool area immediately."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "09ba9e40-4513-45ad-8a67-b4eeee20f1bb",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Offer cool (not ice‑cold) water."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "35c30f48-55cd-4cfd-9323-0650488b1515",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Notify supervisor and follow medical emergency protocol."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "67b91d2c-cb57-47db-8895-01f1661fcf5b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Night Routine & Sleep",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "211bb0fe-6865-49d3-bc72-72eb82921726",
+            "text": {
+              "ops": [
+                {
+                  "insert": "12.1. Evening checklist:"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "25bc187f-7457-416e-9738-04f3908bbbc9",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Confirm he had dinner and his "
+                },
+                {
+                  "insert": "dental chew",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "100b1466-65fb-4451-94b6-0ed3435121ba",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Confirm he had an evening potty break/walk."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "17fc6e75-1ef2-46b5-8aee-9600e6daa98f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Ensure "
+                },
+                {
+                  "insert": "blue squeaky toy",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " is in his kennel."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a362c70d-1c64-4221-a8f7-be81bc160ced",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Refill water bowl."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "5c207372-944b-469b-930b-6b201641d8b9",
+            "text": {
+              "ops": [
+                {
+                  "insert": "12.2. Keep lights and noise low in kennel area after designated “lights out” time."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "8b9ef122-121c-4d49-b9e2-b22566c89432",
+            "text": {
+              "ops": [
+                {
+                  "insert": "12.3. If he vocalizes at night:"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "9537ed98-31f1-4f5e-bec2-2c24dddb37f6",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Briefly check for medical or potty needs."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "2f190057-d5e0-4b59-96ea-696c50a35970",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Provide calm reassurance; avoid extended stimulation or play."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "734292d7-3652-4eac-af99-413eb4996fac",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Record‑Keeping & Communication",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "8c447209-808e-4365-89aa-d5ec8cfa35ad",
+            "text": {
+              "ops": [
+                {
+                  "insert": "13.1. At each shift, update Charlie’s log with:"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f5510582-a148-4f9b-a9a2-541cadc61aa1",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Meal times and amounts eaten."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "cb77711a-7a6e-4c68-aeb5-15ac649c594c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Walk times, elimination notes (normal/abnormal)."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c6d4513e-2817-412e-91da-a366bbf28e56",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Socialization and play activities (including fetch sessions)."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "123223ff-4aab-4061-96f3-9938170994d6",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Any unusual behavior, signs of stress, or possible health issues."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "2ce82df3-6f7e-4d87-a2ec-7bc76c5b15ed",
+            "text": {
+              "ops": [
+                {
+                  "insert": "13.2. Report significant changes or concerns to supervisor and note any instructions."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1e4a524f-61e4-4bd2-89c2-13c5d64217a4",
+            "text": {
+              "ops": [
+                {
+                  "insert": "13.3. If any emergency or serious concern arises:"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "3c0984f6-d089-4c31-a905-66249ad1bb08",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Follow facility escalation protocol."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "93176b27-07a4-4ef3-a651-5d9f779d4717",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Contact "
+                },
+                {
+                  "insert": "Michael Mitchell (+1 (555) 876‑5432)",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " if authorized by supervisor."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "2f50cff8-7ad0-4aab-9f59-b064afa3860e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Check‑Out Preparation",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "number",
+              "children": "number"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "7d6ef298-56cf-4c31-8ad2-43da57ce1f4d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "14.1. On departure day:"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "7fb442eb-4a58-4cd3-9c3a-de8590b4afe2",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Ensure Charlie is clean (light brushing if needed)."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "86985b94-65d9-4982-a5c9-9e8cd4665b9b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Pack and return his "
+                },
+                {
+                  "insert": "blue squeaky toy",
+                  "attributes": {
+                    "bold": true
+                  }
+                },
+                {
+                  "insert": " and any owner‑provided items."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "76b9f1a0-8f51-4744-80ea-67b63c7651d8",
+            "text": {
+              "ops": [
+                {
+                  "insert": "14.2. Provide a brief behavior and care summary to front desk:"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c9ae4e21-33b4-4f96-b5ac-93ddd9e1e34c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Eating habits, bowel/urine notes."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1934c5a2-95c2-4311-9bce-b0bbfa072185",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Socialization and play preferences (highlight love of fetch and belly rubs)."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a5a0b899-7b50-4b8a-991f-2dd89531c331",
+            "text": {
+              "ops": [
+                {
+                  "insert": "- Any observed issues or recommendations."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "6798ce34-4e0a-4465-9309-527be75e500c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Staff should follow this checklist consistently to ensure Charlie’s boarding stay is safe, comfortable, and enriched."
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "preferences": {
+    "defaultView": "list",
+    "avatar": {
+      "type": "emoji",
+      "value": "📢"
+    }
+  }
+}

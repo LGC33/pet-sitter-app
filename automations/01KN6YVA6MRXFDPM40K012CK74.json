@@ -1,0 +1,217 @@
+{
+  "version": "2",
+  "flowTitle": "Smart Follow-Up Scheduler",
+  "trigger": {
+    "valid": false,
+    "displayName": "When Quote Status Updated",
+    "type": "PIECE_TRIGGER",
+    "settings": {
+      "pieceName": "@taskade/automade-internalpiece-taskade",
+      "pieceVersion": "BLANK",
+      "triggerName": "task.custom_attribute_updated",
+      "input": {
+        "fieldId": "@status",
+        "projectId": {
+          "type": "flow-template-variable-input-type",
+          "id": "QHKG3Y96ZqGwQD1p"
+        }
+      }
+    }
+  },
+  "actions": [
+    {
+      "name": "x1y2z3a4-b5c6-7890-def1-234567890ghi",
+      "valid": true,
+      "displayName": "Route by Booking Status",
+      "type": "BRANCH",
+      "settings": {},
+      "paths": [
+        {
+          "name": "y2z3a4b5-c6d7-8901-ef12-34567890ghij",
+          "valid": true,
+          "displayName": "✅ Booked - Send Pre-Arrival Info",
+          "type": "BRANCH_PATH",
+          "settings": {
+            "ruleset": {
+              "type": "CUSTOM",
+              "input": {
+                "type": "or",
+                "value": [
+                  {
+                    "type": "and",
+                    "value": [
+                      {
+                        "condition": "text_matches",
+                        "id": "932790a0-48ab-48d1-8a8d-e5d3f00aabee",
+                        "data": "{{ trigger[\"WjZwj3bQQMjD6MnC/fields/@status\"] }}",
+                        "comparator": "Booked"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          "actions": [
+            {
+              "name": "z3a4b5c6-d7e8-9012-f123-4567890ghijk",
+              "valid": true,
+              "displayName": "Generate Pre-Arrival Checklist",
+              "type": "PIECE",
+              "settings": {
+                "pieceName": "@taskade/automade-internalpiece-openai",
+                "pieceVersion": "BLANK",
+                "actionName": "ai.generate",
+                "input": {
+                  "input": "Customer: {{ trigger[\"WjZwj3bQQMjD6MnC/fields/@cName\"] }}, Pet: {{ trigger[\"WjZwj3bQQMjD6MnC/fields/@petName\"] }}, Check-in Date: {{ trigger[\"WjZwj3bQQMjD6MnC/fields/@checkIn\"] }}",
+                  "prompt": "Create a friendly pre-arrival checklist email for a pet boarding customer. Include: what to bring (food, medications, favorite toys), drop-off procedures, contact information, and a warm welcome message. Keep it organized with bullet points."
+                }
+              }
+            },
+            {
+              "name": "a4b5c6d7-e8f9-0123-g234-567890ghijkl",
+              "valid": false,
+              "displayName": "Create Pre-Arrival Task",
+              "type": "PIECE",
+              "settings": {
+                "pieceName": "@taskade/automade-internalpiece-taskade",
+                "pieceVersion": "BLANK",
+                "actionName": "task.create",
+                "input": {
+                  "blockId": "{{ trigger[\"nodeId\"] }}",
+                  "content": "📧 Send pre-arrival info 48h before check-in",
+                  "position": "afterbegin",
+                  "projectId": {
+                    "type": "flow-template-variable-input-type",
+                    "id": "QHKG3Y96ZqGwQD1p"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "b5c6d7e8-f901-2345-h345-67890ghijklm",
+          "valid": true,
+          "displayName": "📞 Contacted - Schedule Follow-Up",
+          "type": "BRANCH_PATH",
+          "settings": {
+            "ruleset": {
+              "type": "CUSTOM",
+              "input": {
+                "type": "or",
+                "value": [
+                  {
+                    "type": "and",
+                    "value": [
+                      {
+                        "condition": "text_matches",
+                        "id": "62b73c0d-e612-459e-bda1-970940db2619",
+                        "data": "{{ trigger[\"WjZwj3bQQMjD6MnC/fields/@status\"] }}",
+                        "comparator": "Contacted"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          "actions": [
+            {
+              "name": "c6d7e8f9-0123-4567-i456-7890ghijklmn",
+              "valid": false,
+              "displayName": "Create Follow-Up Reminder",
+              "type": "PIECE",
+              "settings": {
+                "pieceName": "@taskade/automade-internalpiece-taskade",
+                "pieceVersion": "BLANK",
+                "actionName": "task.create",
+                "input": {
+                  "blockId": "{{ trigger[\"nodeId\"] }}",
+                  "content": "🔔 Follow up in 24h if no response",
+                  "position": "afterbegin",
+                  "projectId": {
+                    "type": "flow-template-variable-input-type",
+                    "id": "QHKG3Y96ZqGwQD1p"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "d7e8f901-2345-6789-j567-890ghijklmno",
+          "valid": true,
+          "displayName": "❌ Declined - Request Feedback",
+          "type": "BRANCH_PATH",
+          "settings": {
+            "ruleset": {
+              "type": "CUSTOM",
+              "input": {
+                "type": "or",
+                "value": [
+                  {
+                    "type": "and",
+                    "value": [
+                      {
+                        "condition": "text_matches",
+                        "id": "6358d52b-16ac-429a-8ff5-ad78fc59400a",
+                        "data": "{{ trigger[\"WjZwj3bQQMjD6MnC/fields/@status\"] }}",
+                        "comparator": "Declined"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          "actions": [
+            {
+              "name": "e8f90123-4567-8901-k678-90ghijklmnop",
+              "valid": true,
+              "displayName": "Generate Feedback Request",
+              "type": "PIECE",
+              "settings": {
+                "pieceName": "@taskade/automade-internalpiece-openai",
+                "pieceVersion": "BLANK",
+                "actionName": "ai.generate",
+                "input": {
+                  "input": "Customer: {{ trigger[\"WjZwj3bQQMjD6MnC/fields/@cName\"] }}, Pet: {{ trigger[\"WjZwj3bQQMjD6MnC/fields/@petName\"] }}",
+                  "prompt": "Write a brief, polite feedback request email for a customer who declined our pet boarding service. Ask what we could improve, if pricing was a concern, or if they found another solution. Keep it short, friendly, and non-pushy. 2-3 sentences max."
+                }
+              }
+            },
+            {
+              "name": "f9012345-6789-0123-l789-0ghijklmnopq",
+              "valid": false,
+              "displayName": "Archive Declined Quote",
+              "type": "PIECE",
+              "settings": {
+                "pieceName": "@taskade/automade-internalpiece-taskade",
+                "pieceVersion": "BLANK",
+                "actionName": "task.create",
+                "input": {
+                  "blockId": "{{ trigger[\"nodeId\"] }}",
+                  "content": "📁 Archived - Feedback requested",
+                  "position": "afterbegin",
+                  "projectId": {
+                    "type": "flow-template-variable-input-type",
+                    "id": "QHKG3Y96ZqGwQD1p"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "variables": {
+    "QHKG3Y96ZqGwQD1p": {
+      "id": "QHKG3Y96ZqGwQD1p",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    }
+  }
+}

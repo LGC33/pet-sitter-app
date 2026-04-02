@@ -1,0 +1,138 @@
+{
+  "version": "2",
+  "flowTitle": "Holiday Season Manager",
+  "trigger": {
+    "valid": false,
+    "displayName": "When Booking Added",
+    "type": "PIECE_TRIGGER",
+    "settings": {
+      "pieceName": "@taskade/automade-internalpiece-taskade",
+      "pieceVersion": "BLANK",
+      "triggerName": "task.added",
+      "input": {}
+    }
+  },
+  "actions": [
+    {
+      "name": "r1s2t3u4-v5w6-7890-xyz1-234567890abc",
+      "valid": true,
+      "displayName": "Check Holiday Period",
+      "type": "BRANCH",
+      "settings": {},
+      "paths": [
+        {
+          "name": "s2t3u4v5-w6x7-8901-yz12-34567890abcd",
+          "valid": true,
+          "displayName": "🎄 Christmas Peak Period",
+          "type": "BRANCH_PATH",
+          "settings": {
+            "ruleset": {
+              "type": "CUSTOM",
+              "input": {
+                "type": "or",
+                "value": [
+                  {
+                    "type": "and",
+                    "value": [
+                      {
+                        "condition": "text_contains",
+                        "id": "be811b65-2026-47f8-9433-6c908cf2a27a",
+                        "data": "{{ trigger[\"nodeText\"] }}",
+                        "comparator": "Dec 2"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "and",
+                    "value": [
+                      {
+                        "condition": "text_contains",
+                        "id": "df7b1a95-bc0c-484a-8d0b-54c6c5c2f661",
+                        "data": "{{ trigger[\"nodeText\"] }}",
+                        "comparator": "Dec 3"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "and",
+                    "value": [
+                      {
+                        "condition": "text_contains",
+                        "id": "b903f985-543e-4e20-a0ff-e427d152fd75",
+                        "data": "{{ trigger[\"nodeText\"] }}",
+                        "comparator": "Jan"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          },
+          "actions": [
+            {
+              "name": "t3u4v5w6-x7y8-9012-z123-4567890abcde",
+              "valid": false,
+              "displayName": "Create Peak Period Alert Task",
+              "type": "PIECE",
+              "settings": {
+                "pieceName": "@taskade/automade-internalpiece-taskade",
+                "pieceVersion": "BLANK",
+                "actionName": "task.create",
+                "input": {
+                  "blockId": "{{ trigger[\"nodeId\"] }}",
+                  "content": "🎄 PEAK PERIOD - Surge pricing applied | Coordinate with team lead",
+                  "position": "afterbegin",
+                  "projectId": {
+                    "type": "flow-template-variable-input-type",
+                    "id": "QHKG3Y96ZqGwQD1p"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "v5w6x7y8-z901-2345-3456-7890abcdefgh",
+          "valid": true,
+          "displayName": "✅ Regular Period (Standard Rates)",
+          "type": "BRANCH_PATH",
+          "settings": {
+            "ruleset": {
+              "type": "FALLBACK"
+            }
+          },
+          "actions": [
+            {
+              "name": "w6x7y8z9-0123-4567-8901-abcdefghijkl",
+              "valid": false,
+              "displayName": "Mark as Standard Processing",
+              "type": "PIECE",
+              "settings": {
+                "pieceName": "@taskade/automade-internalpiece-taskade",
+                "pieceVersion": "BLANK",
+                "actionName": "task.create",
+                "input": {
+                  "blockId": "{{ trigger[\"nodeId\"] }}",
+                  "content": "✅ Standard rates - Process normally within 24h",
+                  "position": "afterbegin",
+                  "projectId": {
+                    "type": "flow-template-variable-input-type",
+                    "id": "QHKG3Y96ZqGwQD1p"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "variables": {
+    "QHKG3Y96ZqGwQD1p": {
+      "id": "QHKG3Y96ZqGwQD1p",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    }
+  }
+}
